@@ -1,3 +1,4 @@
+%cette fonction affiche des informations et représente graphiquement des données pour un fichier audio donné
 function afficher_info_audio(info_audio,Fs)    
   
     % Affichage de la fréquence d'échantillonnage 
